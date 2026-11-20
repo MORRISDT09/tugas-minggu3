@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🩺 SIKMA — Sistem Kesehatan Mahasiswa
 
 > **Tugas Akhir MORRIS Teknik Informatika 2026**
